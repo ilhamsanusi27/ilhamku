@@ -2,10 +2,10 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="https://2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png"/>
-      <square150x150logo src="https://2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png"/>
-      <square310x310logo src="https://2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png"/>
-      <wide310x150logo src="https://2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png"/>
+      <square70x70logo src="https://cdn.staticaly.com/2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png"/>
+      <square150x150logo src="https://cdn.staticaly.com/2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png"/>
+      <square310x310logo src="https://cdn.staticaly.com/2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png"/>
+      <wide310x150logo src="https://cdn.staticaly.com/2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png"/>
       <TileColor>#da532c</TileColor>
     </tile>
   </msapplication>
