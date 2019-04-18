@@ -1,15 +1,23 @@
-{
-  "name": "IlhamKu",
-  "short_name": "IlhamKu",
-  "description": "Pusat Tips Blogger Indonesia",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#FFFFFF",
-  "icons": [
-    {
-      "src": "https://cdn.staticaly.com/2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png",
-      "type": "image/png"
-    }
-  ]
-}
+{			  
+			"name": "IlhamKu",
+			"short_name": "IlhamKu",
+			"description": "Seputar Blogging Dan Sosial Media",
+			"icons": [
+			    {
+			      "src": "https://cdn.staticaly.com/img/2.bp.blogspot.com/-7hBlwiayB-s/W_v1OnPJuxI/AAAAAAAABXk/0nj9m7FEbdYYEoLMScoCR2x9_jchfRFpwCPcBGAYYCw/s1600/favicon.png",
+			      "sizes": "192x192",
+			      "type": "image\/png"
+			    },
+			    {
+			      "src": "https://ilhamku.site/wp-content/uploads/2019/02/IlhamKu-site.png",
+			      "sizes": "512x512",
+			      "type": "image\/png"
+			    }
+			],
+			"background_color": "#D5E0EB",
+			"theme_color": "#D5E0EB",
+			"display": "standalone",
+			"orientation": "portrait",
+			"start_url": "https://ilhamsanusi27.blogspot.com/",
+			"scope": "https://ilhamsanusi27.blogspot.com/"
+		}
