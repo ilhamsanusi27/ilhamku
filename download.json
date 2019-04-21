@@ -1,33 +1,12 @@
 {
   "items": [{
-    "tanggal": 1,
-    "judul": "/img/product1_640x426.jpg",
-    "url": "Apple",
-    "gambar": "1.99",
-  }, {
-    "tanggal": 1,
-    "judul": "/img/product1_640x426.jpg",
-    "url": "Apple",
-    "gambar": "1.99",
-  }, {
-    "tanggal": 1,
-    "judul": "/img/product1_640x426.jpg",
-    "url": "Apple",
-    "gambar": "1.99",
-  }, {
-    "tanggal": 1,
-    "judul": "/img/product1_640x426.jpg",
-    "url": "Apple",
-    "gambar": "1.99",
-  }, {
-    "tanggal": 1,
-    "judul": "/img/product1_640x426.jpg",
-    "url": "Apple",
-    "gambar": "1.99",
-  }, {
-    "tanggal": 1,
-    "judul": "/img/product1_640x426.jpg",
-    "url": "Apple",
-    "gambar": "1.99",
+    "id": 1,
+    "img": "/img/product1_640x426.jpg",
+    "name": "Apple",
+    "price": "1.99",
+    "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "attribution": "visualhunt",
+    "url": "#",
+    "color": "green"
   }]
 }
