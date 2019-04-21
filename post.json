@@ -1,5 +1,6 @@
-{ "items": [
- { "tanggal": "1 Maret 2019",
+{
+ "items":[{
+   "tanggal": "1 Maret 2019",
    "judul": "Cara Mencegah Penipuan SMS Berkedok Operator",
    "url": "aaa",
    "gambar": "aaa"
@@ -143,7 +144,7 @@
  },
  {
    "tanggal": "20 Februari 2017",
-   "judul": "5 Cara Futuristik untuk Jauhkan Pencuri Mencuri Android Anda ",
+   "judul": "5 Cara Futuristik untuk Jauhkan Pencuri Mencuri Android Anda",
    "url": "aaa",
    "gambar": "aaa"
  },
@@ -275,7 +276,7 @@
  },
  {
    "tanggal": "6 Agustus 2016",
-   "judul": "Tips Baru Menghemat Baterai Blackberry Paling Ampuh
+   "judul": "Tips Baru Menghemat Baterai Blackberry Paling Ampuh",
    "url": "aaa",
    "gambar": "aaa"
  },
@@ -359,7 +360,7 @@
  },
  {
    "tanggal": "7 Desember 2015",
-   "judul": "Mengubah tampilan Icon Signal [sinyal] di Android Jadi Digital
+   "judul": "Mengubah tampilan Icon Signal [sinyal] di Android Jadi Digital",
    "url": "aaa",
    "gambar": "aaa"
  },
@@ -391,7 +392,4 @@
    "tanggal": "3 Desember 2015",
    "judul": "Modifikasi recent android menjadi berputar-putar",
    "url": "aaa",
-   "gambar": "aaa"
- }
- ]
-}
+   "gambar": "aaa"}]}
